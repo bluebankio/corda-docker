@@ -1,5 +1,5 @@
 # corda-docker
-Based on Alphine, non-root user and tested in Kubernetes and OpenShift.
+Based on Ubuntu 16.04, non-root user and tested in Kubernetes and OpenShift.
 
 ## Usage
 Certificates, plugins and node.conf should be added to child images or mounted as volumes on container.
